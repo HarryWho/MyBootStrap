@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "mappings": "AAAA;;;;EAIE;ACHF,OAAO,CAAC,gEAAI;ACDZ,AAAA,CAAC,CAAA;EACG,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;CACb;;AAED,AAAA,IAAI,CAAA;EACA,WAAW,EDFH,WAAW,EAAE,UAAU;CCGlC",
+    "sources": [
+        "../scss/style.scss",
+        "../scss/base/_variables.scss",
+        "../scss/base/_normalize.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}
